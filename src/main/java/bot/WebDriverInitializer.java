@@ -7,8 +7,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class WebDriverInitializer {
 
-    static String user = "ygnhmt@gmail.com";
-    static String password = "Telefon191**";
+    static String user = "**";
+    static String password = "***";
     public static WebDriver initializeAndLogin() {
 
         System.setProperty("webdriver.gecko.driver","drivers\\geckodriver.exe");
